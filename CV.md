@@ -1,4 +1,7 @@
 Nombre: Briolotti Lucas Gonzalo 
-Nacimiento: 12/08/1999
 
-Colegio : Atalanta
+Curso: Programacion
+
+Nacimiento: 99/99/1999
+
+Colegio : Atalanta Fc
